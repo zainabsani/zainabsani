@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zainab Sani
-- 👀 I’m interested in Frontend Development 
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Zainab Abdulqadir Sani
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning cyber security & data analytics
 - 💞️ I’m looking to collaborate on projects
 
 <!---
